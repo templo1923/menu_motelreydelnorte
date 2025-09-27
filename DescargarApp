@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="es">
+<head>
+<title>Descargar aplicación | Menu Rey De Norte </title>
+<meta name="description" content="Aplicación para Android: Menu Rey De Norte , DELEÍTATE Los reyes se reconocen por su buen gusto." />
+<meta name="keywords" content="aplicación,android,Menu Rey De Norte ,DELEÍTATE Los reyes se reconocen por su buen gusto." />
+<meta name="author" content="Android Creator" />
+<meta name="robots" content="all,index,follow" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8" />
+<link rel="canonical" href="https://www.appcreator24.com/app3758316-rfp75c">
+
+<meta property="og:title" content="Menu Rey De Norte ">
+<meta property="og:description" content="DELEÍTATE Los reyes se reconocen por su buen gusto.">
+<meta property="og:image" content="https://www.appcreator24.com/srv/imgs/gen/3758316_ico.png?v=3">
+<meta property="og:url" content="https://www.appcreator24.com/app3758316-rfp75c">
+<meta property="og:type" content="website">
+
+
+<style>
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #f9fafc, #f1f3f8);
+  color: #333;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.app-img {
+  width: auto;
+  height: auto;
+  min-width: 120px;
+  min-height: 120px;
+  max-width: 240px;
+  max-height: 240px;
+  border-radius: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.title {
+  font-size: 2.4em;
+  margin-bottom: 10px;
+}
+
+.description {
+  font-size: 1.1em;
+  color: #555;
+  line-height: 1.6;
+  margin-bottom: 30px;
+}
+
+.download-btn {
+  display: inline-block;
+  padding: 14px 30px;
+  background: #007bff;
+  color: white;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 30px;
+  box-shadow: 0 4px 15px rgba(255, 77, 109, 0.3);
+  transition: transform 0.2s ease;
+}
+
+.download-btn:hover {
+  transform: scale(1.05);
+}
+
+.qr-section {
+  margin-top: 40px;
+}
+
+.qr-section img {
+  width: 140px;
+  height: 140px;
+}
+
+.social {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+iframe {
+  border: none;
+  overflow: hidden;
+}
+
+@media (max-width: 600px) {
+  .title {
+    font-size: 1.8em;
+  }
+  .description {
+    font-size: 1em;
+  }
+  .qr-section img {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+
+
+.oculto{border:0px;}
+@media screen and (max-width: 790px)
+{
+	.oculto{display:none;}
+}
+		/*Modal*/
+		.modal {
+		    position: fixed;
+		    z-index: 100;
+		    left: 0;
+		    top: 0;
+		    width: 100%;
+		    height: 100%;
+		    overflow: auto;
+		    background-color: rgb(0,0,0);
+		    background-color: rgba(0,0,0,0.4);
+		}
+
+		.modal-content {
+			font-family:arial;
+			font-size:medium;
+		    background-color: #fefefe;
+		    margin: 15% auto;
+		    padding: 20px;
+		    border: 1px solid #888;
+		    width: 50%;
+		}
+
+		.close {
+		    color: #aaa;
+		    float: right;
+		    font-size: 28px;
+		    font-weight: bold;
+		}
+
+		.close:hover,
+		.close:focus {
+		    color: black;
+		    text-decoration: none;
+		    cursor: pointer;
+		}
+
+	</style>
+</head>
+<body>
+
+<div class="container">
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/es_ES/sdk.js#xfbml=1&version=v17.0">
+</script>
+
+
+
+	
+	
+    <img src="https://www.appcreator24.com/srv/imgs/gen/3758316_ico.png?v=3" alt="Icono de la app" class="app-img" />
+    <h1 class="title">Menu Rey De Norte </h1>
+    <p class="description">DELEÍTATE
+<br>Los reyes se reconocen por su buen gusto.</p>
+    
+    	    
+
+
+
+    
+
+
+	    <a class="download-btn" download href="https://apk.e-droid.net/apk/app3758316-rfp75c.apk?v=3">&#x2B07;&#xFE0F;&nbsp;Descargar App</a>
+			<p style="color: #888; font-size: 0.9em; margin-top: 8px;">(Archivo APK)</p>
+			
+
+		    <div class="qr-section oculto">
+	      <p>O escanea el c&oacute;digo QR</p>
+	      <img src="https://cdnc.heyzine.com/flip-book/qr-code/fc4b232bb2-748223.png" alt="Co&acute;digo QR" />
+	    
+	</div>
+	
+	
+	
+	<div id="divmodal_info_aab" class="modal" style="display:none;" onclick="this.style.display='none';"><div id="divmodalcontent_info_aab" class="modal-content">
+	<span class="close">&times;</span>
+	<p id="modaltxt_info_aab" style="text-align:start;">
+			&middot;&nbsp;Activa la opción de generar el archivo .aab desde el apartado <b>'Datos generales' &gt; 'Nombre e Icono'</b><br>
+		<br>
+		&middot;&nbsp;Luego pulsa el botón Guardar y vuelve a esta página para descargar el archivo.		</p>
+	</div>
+	</div>
+	<script language="javascript">
+	function f_info_aab()
+	{
+		document.getElementById('divmodal_info_aab').style.display='block';
+	}
+	</script>
+
+
+</footer>
+</body>
+</html>
+
+
